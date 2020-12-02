@@ -5,7 +5,7 @@ include_in_header: true
 ---
 ## **Use Authenticator on your Apple Watch**
 
-<img src="file://../assets/appicon.png" width="100" height="100">
+![Apple Watch](../assets/appicon.png =250x)
 
 ### Set up Authenticator on your Apple Watch
 Before you can start using Authenticator on your Apple Watch, you’ll need to get Authenticator on your iPhone. Then follow these steps:
