@@ -12,6 +12,8 @@ Before you can start using Authenticator on your Apple Watch, you’ll need to g
 2. Tap Settings.
 3. Enable Apple Watch and choose the accounts that you want to add to your watch.
 
+![Apple Watch](./pictures/applewatch.png)
+
 
 **To see all the accounts you’ve added to your watch, tap Settings and choose Apple Watch.**
 
