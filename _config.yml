@@ -4,15 +4,15 @@ page_title                                :                                     
 # App Info
 ios_app_id                                :                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://apps.apple.com/app/id1538761576                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://apps.apple.com/app/id1548911821                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
 presskit_download_link                    :                                        # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : /assets/appicon.png                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Authenticator                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Audify                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The missing Authenticator with Synchronization and Backup
+app_description                           : Find the most trending soundtracks
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -35,21 +35,21 @@ youtube_username                          :
 features                                  :
 
 
-  - title                                 : Synchronization
-    description                           : All your accounts are automatically synchronized between all devices.
-    fontawesome_icon_name                 : sync
+  - title                                 : Unlimited Streamer
+    description                           : Stream milions of songs.
+    fontawesome_icon_name                 : play
     
-  - title                                 : Secure Backup
-    description                           : You can always backup your accounts, in case you lose or switch to a new device.
-    fontawesome_icon_name                 : save
+  - title                                 : Shuffle
+    description                           : Shuffle your favourite soundtracks.
+    fontawesome_icon_name                 : random
 
-  - title                                 : Face/Touch ID
-    description                           : Fast access using Face/Touch ID
-    fontawesome_icon_name                 : fingerprint
+  - title                                 : Discover Trending Remixes
+    description                           : Find the most hot and trending music.
+    fontawesome_icon_name                 : search
     
-  - title                                 : 256-bits Encryption
-    description                           : All your data is encrypted using the latest encryption algorithms.
-    fontawesome_icon_name                 : shield-alt  
+  - title                                 : Playlist
+    description                           : Create unlimited playlists and stream your music.
+    fontawesome_icon_name                 : headphones 
 
 
 
@@ -62,7 +62,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 
