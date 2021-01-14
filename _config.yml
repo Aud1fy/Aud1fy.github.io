@@ -36,15 +36,15 @@ features                                  :
 
 
   - title                                 : Unlimited Streamer
-    description                           : Stream milions of songs.
+    description                           : Stream millions of songs.
     fontawesome_icon_name                 : play
     
   - title                                 : Shuffle
-    description                           : Shuffle your favourite soundtracks.
+    description                           : Shuffle your favorite soundtracks.
     fontawesome_icon_name                 : random
 
   - title                                 : Discover Trending Remixes
-    description                           : Find the most hot and trending music.
+    description                           : Find the hottest and trending music.
     fontawesome_icon_name                 : search
     
   - title                                 : Playlist
