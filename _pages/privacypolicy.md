@@ -14,6 +14,9 @@ We don't collect any personal data from your device.
 
 When you use our software we may record some usage analytics and crash logs. The sole purpose of the data we collect is to help us make better decisions on where to focus our efforts and improve our software.
 
+### ADS
+We have integrated the 3d party advertiser specifically the Google Admob.
+
 ### Usage analytics
 The app usage analytics collected is minimal but essential to help us run our business. Currently we collect:
 
